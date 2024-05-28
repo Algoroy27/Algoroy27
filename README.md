@@ -8,7 +8,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/algoroy27/post-install-config)
 - <b>Microsoft Azure</b> 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/algoroy27/configure-ad)
- 
+ - <b>GRC Analyst</b> 
+  - [NIST CYBERSECURITY FRAMWORK](https://github.com/Algoroy27/GRC.git)
 <h2>🤳Connect with me:</h2>
 
 
